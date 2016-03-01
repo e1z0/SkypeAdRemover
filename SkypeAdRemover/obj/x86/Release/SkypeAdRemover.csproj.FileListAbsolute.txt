@@ -12,3 +12,10 @@ e:\projects\SkypeAdRmover\SkypeAdRemover\bin\Release\SkypeAdRemover.pdb
 e:\projects\SkypeAdRmover\SkypeAdRemover\obj\x86\Release\SkypeAdRmover.MainForm.resources
 e:\projects\SkypeAdRmover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.Properties.Resources.resources
 e:\projects\SkypeAdRmover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.csproj.GenerateResource.Cache
+e:\projects\SkypeAdRemover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.exe
+e:\projects\SkypeAdRemover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.pdb
+e:\projects\SkypeAdRemover\SkypeAdRemover\bin\Release\SkypeAdRemover.exe
+e:\projects\SkypeAdRemover\SkypeAdRemover\bin\Release\SkypeAdRemover.pdb
+e:\projects\SkypeAdRemover\SkypeAdRemover\obj\x86\Release\SkypeAdRmover.MainForm.resources
+e:\projects\SkypeAdRemover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.Properties.Resources.resources
+e:\projects\SkypeAdRemover\SkypeAdRemover\obj\x86\Release\SkypeAdRemover.csproj.GenerateResource.Cache

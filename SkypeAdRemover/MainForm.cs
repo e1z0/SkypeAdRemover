@@ -23,7 +23,7 @@ namespace SkypeAdRmover
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start("http://wiki.eofnet.lt/");
-            System.Diagnostics.Process.Start("https://github.com/e1z0");
+            System.Diagnostics.Process.Start("https://github.com/e1z0/SkypeAdRemover");
 
         }
 
