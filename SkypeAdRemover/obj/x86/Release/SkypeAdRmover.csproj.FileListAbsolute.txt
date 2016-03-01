@@ -1,0 +1,7 @@
+E:\projects\SkypeAdRmover\SkypeAdRmover\obj\x86\Release\SkypeAdRmover.MainForm.resources
+E:\projects\SkypeAdRmover\SkypeAdRmover\obj\x86\Release\SkypeAdRmover.csproj.GenerateResource.Cache
+E:\projects\SkypeAdRmover\SkypeAdRmover\bin\Release\SkypeAdRemover.exe
+E:\projects\SkypeAdRmover\SkypeAdRmover\bin\Release\SkypeAdRemover.pdb
+E:\projects\SkypeAdRmover\SkypeAdRmover\obj\x86\Release\SkypeAdRemover.Properties.Resources.resources
+E:\projects\SkypeAdRmover\SkypeAdRmover\obj\x86\Release\SkypeAdRemover.exe
+E:\projects\SkypeAdRmover\SkypeAdRmover\obj\x86\Release\SkypeAdRemover.pdb
